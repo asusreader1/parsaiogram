@@ -82,7 +82,7 @@ async def news_every_minute():
         else:
             await bot.send_message(user_id, "No more fresh news now...", disable_notification=True)
 
-        await asyncio.sleep(20)
+        await asyncio.sleep(520)
 
 
 if __name__ == '__main__':

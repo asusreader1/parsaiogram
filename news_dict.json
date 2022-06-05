@@ -190,5 +190,275 @@
         "article_title": "МОЗ щотижня фіксує до чотирьох тисяч випадків COVID-19",
         "article_url": "https://www.ukrinform.ua/rubric-society/3495314-moz-sotizna-fiksue-do-cotiroh-tisac-vipadkiv-covid19.html",
         "description": "Міністерство охорони здоров'я України наразі фіксує приблизно 4 тисячі випадків на тиждень захворювання на коронавірус."
+    },
+    "3496045": {
+        "article_timestamp": 1653937788.0,
+        "article_title": "Загибель французького журналіста на Луганщині - голова ОВА розповів подробиці",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3496045-zagibel-francuzkogo-zurnalista-na-lugansini-golova-ova-rozpoviv-podrobici.html",
+        "description": "Французький журналіст Фредерік Леклерк Імхофф загинув від уламка авіабомби або великого снаряда, трьох людей, які перебували в тому самому бронеавтомобілі, госпіталізували."
+    },
+    "3496043": {
+        "article_timestamp": 1653937020.0,
+        "article_title": "Доба в ООС: загарбники обстріляли 46 населених пунктів і вбили трьох цивільних",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496043-doba-v-oos-zagarbniki-obstrilali-46-naselenih-punktiv-vbivsi-troh-civilnih.html",
+        "description": "Упродовж 30 травня російські загарбники обстріляли 46 населених пунктів у Донецькій та Луганській областях, пошкодивши 39 цивільних об’єктів. В результаті обстрілів загинули щонайменше троє осіб, сім - поранені."
+    },
+    "3496041": {
+        "article_timestamp": 1653936780.0,
+        "article_title": "Окупанти зруйнували велобазу в Лимані з єдиною в Україні трасою BMX",
+        "article_url": "https://www.ukrinform.ua/rubric-sports/3496041-okupanti-zrujnuvali-velobazu-v-limani-z-edinou-v-ukraini-trasou-bmx.html",
+        "description": "Цього року тут планували міжнародні змагання."
+    },
+    "3496039": {
+        "article_timestamp": 1653936658.0,
+        "article_title": "Перша леді оприлюднила поради, як налаштувати людину старшого віку на евакуацію",
+        "article_url": "https://www.ukrinform.ua/rubric-society/3496039-persa-ledi-opriludnila-poradi-ak-nalastuvati-ludinu-starsogo-viku-na-evakuaciu.html",
+        "description": "Дружина Президента Олена Зеленська оприлюднила поради, як налаштувати людину старшого віку на переїзд у безпечне місце."
+    },
+    "3496037": {
+        "article_timestamp": 1653936360.0,
+        "article_title": "Німеччина виділить €100 мільярдів на оснащення армії",
+        "article_url": "https://www.ukrinform.ua/rubric-world/3496037-nimeccina-vidilit-100-milardiv-na-osnasenna-armii.html",
+        "description": "У Німеччині урядова коаліція та опозиція досягли порозуміння щодо створення спеціального фонду в розмірі 100 млрд євро, який буде використаний у подальші роки для технічного оснащення Бундесверу (збройних сил ФРН)."
+    },
+    "3496032": {
+        "article_timestamp": 1653936180.0,
+        "article_title": "Україна виконала всі критерії для статусу кандидата на вступ до ЄС - Зеленський",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496032-ukraina-vikonala-vsi-kriterii-dla-statusu-kandidata-na-vstup-do-es-zelenskij.html",
+        "description": "Президент Володимир Зеленський заявив, що Україна виконала всі необхідні критерії для отримання статусу кандидата на вступ до Європейського Союзу. Україна виконала всі критерії для статусу кандидата на вступ до ЄС - Зеленський"
+    },
+    "3496028": {
+        "article_timestamp": 1653936084.0,
+        "article_title": "Новий посол США вручила вірчі грамоти у МЗС України",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496028-novij-posol-ssa-vrucila-virci-gramoti-u-mzs-ukraini.html",
+        "description": "Посол Сполучених Штатів Америки в Україні Бріджит Брінк вручила вірчі грамоти у Міністерстві закордонних справ України та розпочала обговорення підтримки держави."
+    },
+    "3496026": {
+        "article_timestamp": 1653935760.0,
+        "article_title": "Зеленський закликає Європу допомогти, щоб усі російські воєнні злочинці постали перед судом",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496026-zelenskij-zaklikae-evropu-dopomogti-pritagnuti-do-vidpovidalnosti-koznogo-rosijskogo-voennogo-zlocinca.html",
+        "description": "Президент Володимир Зеленський розраховує на принциповість і активність Європи у притягненні до відповідальності всіх російських воєнних злочинців – від виконавців до командирів."
+    },
+    "3496022": {
+        "article_timestamp": 1653935520.0,
+        "article_title": "Україна сама визначатиме умови для завершення війни - президентка Європарламенту",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496022-ukraina-sama-viznacatime-umovi-dla-zaversenna-vijni-prezidentka-evroparlamentu.html",
+        "description": "Європарламент виступає за найскоріше припинення розв'язаної росією війни проти України, але будь-які ініціативи з цього приводу мають відбуватися за участю України, і лише вона буде визначати умови для завершення війни."
+    },
+    "3496020": {
+        "article_timestamp": 1653935175.0,
+        "article_title": "Зеленський наполягає на спільних платіжному й роумінговому просторах з ЄС",
+        "article_url": "https://www.ukrinform.ua/rubric-economy/3496020-zelenskij-napolagae-na-spilnih-platiznomu-j-roumingovomu-prostorah-z-es.html",
+        "description": "Президент Володимир Зеленський прагне запровадження між Україною та Європейським Союзом спільних митного, платіжного та роумінгового просторів."
+    },
+    "3496024": {
+        "article_timestamp": 1653935040.0,
+        "article_title": "Зеленський закликає ЄС узгодити санкції з нафтовим ембарго, щоб росія відчула ціну за агресію",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496024-zelenskij-zaklikae-es-uzgoditi-sankcii-z-naftovim-embargo-sob-rosia-vidcula-cinu-za-agresiu.html",
+        "description": "Президент Володимир Зеленський закликав Європейський Союз припинити внутрішні суперечки й нарешті ухвалити шостий пакет санкцій проти російської федерації, включно з нафтовим ембарго."
+    },
+    "3496014": {
+        "article_timestamp": 1653934915.0,
+        "article_title": "Викид аміаку на Донеччині: голова ОВА запевняє, що ситуація під контролем",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3496014-vikid-amiaku-na-doneccini-golova-ova-zapevnae-so-situacia-pid-kontrolem.html",
+        "description": "На Донеччині радіус розповсюдження газу з пошкодженого російськими обстрілами аміакопроводу становить близько 2 кілометрів, небезпеки для населених пунктів немає, рятувальники відстежують ситуацію і готові за необхідності знешкодити газову хмару."
+    },
+    "3496009": {
+        "article_timestamp": 1653934503.0,
+        "article_title": "На Одещині знищили російську міну, яку викинуло на берег штормом",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3496009-na-odesini-znisili-rosijsku-minu-aku-vikinulo-na-bereg-stormom.html",
+        "description": "На Одещині військові спеціалісти знищили російську міну, яку штормом зірвало з кріплення і винесло на пляж."
+    },
+    "3496005": {
+        "article_timestamp": 1653934133.0,
+        "article_title": "Шантаж з боку москви продовольством є свідомим ударом по Європі - Зеленський",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496005-santaz-z-boku-moskvi-prodovolstvom-e-svidomim-udarom-po-evropi-zelenskij.html",
+        "description": "Президент України Володимир Зеленський наголосив, що шантаж з боку росії продовольством є свідомим ударом по європейських суспільствах."
+    },
+    "3496003": {
+        "article_timestamp": 1653933873.0,
+        "article_title": "Українці зможуть обміняти готівкову гривню на євро в бельгійських банках",
+        "article_url": "https://www.ukrinform.ua/rubric-economy/3496003-ukrainci-zmozut-obminati-gotivkovu-grivnu-na-evro-v-belgijskih-bankah.html",
+        "description": "Національний банк України та Бельгії уклали угоду, що дасть можливість українцям, які перебувають у Бельгії, здійснювати обмін готівкової української гривні на євро. "
+    },
+    "3495998": {
+        "article_timestamp": 1653933540.0,
+        "article_title": "Новий посол США Бріджит Брінк прибула до Києва",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3495998-novij-posol-ssa-bridzit-brink-pribula-do-kieva.html",
+        "description": "Посол Бріджит Брінк прибула до Києва, щоби розпочати свою місію на посаді очільниці посольства США в Україні."
+    },
+    "3495996": {
+        "article_timestamp": 1653933504.0,
+        "article_title": "Жодних компромісів з рф за рахунок суверенітету України бути не може - Зеленський",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3495996-zodnih-kompromisiv-z-rf-za-rahunok-suverenitetu-ukraini-buti-ne-moze-zelenskij.html",
+        "description": "Президент Володимир Зеленський заявив, що санкції проти росії за її агресію мають бути такими, щоб рф почала шукати миру, і жодних компромісів за рахунок територіальної цілісності та суверенітету України бути не може."
+    },
+    "3495994": {
+        "article_timestamp": 1653933322.0,
+        "article_title": "На Херсонщині зник мобільний зв'язок від українських операторів",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3495994-na-hersonsini-znik-mobilnij-zvazok-vid-ukrainskih-operatoriv.html",
+        "description": "На Херсонщині 30 травня знак мобільний зв'язок від українських операторів."
+    },
+    "3495991": {
+        "article_timestamp": 1653932940.0,
+        "article_title": "Ленд-ліз іще попереду, зараз Україна отримує грантову зброю від США - Маркарова",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3495991-lendliz-ise-poperedu-zaraz-ukraina-otrimue-grantovu-zbrou-vid-ssa-markarova.html",
+        "description": "Вся зброя, яку зараз отримує Україна від Сполучених Штатів, є грантовою, ленд-ліз – це четвертий інструмент, над яким зараз працює українська влада."
+    },
+    "3495989": {
+        "article_timestamp": 1653932881.0,
+        "article_title": "На Запоріжжі нацгвардієць збив три ворожі штурмовики",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3495989-na-zaporizzi-nacgvardiec-zbiv-tri-vorozi-sturmoviki.html",
+        "description": "У \"Привида Києва\" є напарник, який за півтора місяці у Запорізькій області збив три ворожі штурмовики."
+    },
+    "3495986": {
+        "article_timestamp": 1653932739.0,
+        "article_title": "Комітет ВР із прав людини не отримував матеріалів щодо звільнення Денісової – депутат",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3495986-komitet-vr-iz-prav-ludini-ne-otrimuvav-materialiv-sodo-zvilnenna-denisovoi-deputat.html",
+        "description": "Профільний Комітет Верховної Ради України не отримував матеріалів щодо звільнення Уповноваженої ВР з прав людини Людмили Денісової."
+    },
+    "3495980": {
+        "article_timestamp": 1653932400.0,
+        "article_title": "«Шахтар» не продасть Мудрика цього літа на 99% - ЗМІ",
+        "article_url": "https://www.ukrinform.ua/rubric-sports/3495980-sahtar-ne-prodast-mudrika-cogo-lita-na-99-zmi.html",
+        "description": "Це рішення президента клубу."
+    },
+    "3495977": {
+        "article_timestamp": 1653932246.0,
+        "article_title": "Історія героїв Азовсталі не закінчилася, про них не треба забувати – родичі військових",
+        "article_url": "https://www.ukrinform.ua/rubric-society/3495977-istoria-geroiv-azovstali-ne-zakincilasa-pro-nih-ne-treba-zabuvati-rodici-vijskovih.html",
+        "description": "Українські військові - захисники Маріуполя, евакуйовані з металургійного комбінату «Азовсталь», потребують підтримки і повернення додому, про них не треба забувати."
+    },
+    "3495975": {
+        "article_timestamp": 1653932182.0,
+        "article_title": "Зеленський планує ввечері провести розмову з Ердоганом - джерело",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3495975-zelenskij-planue-vveceri-provesti-rozmovu-z-erdoganom-dzerelo.html",
+        "description": "Президент Володимир Зеленський у понеділок увечері планує провести телефонну розмову з Президентом Туреччини Реджепом Тайїпом Ердоганом."
+    },
+    "3495970": {
+        "article_timestamp": 1653931649.0,
+        "article_title": "Тарифи на газ та тепло залишаться незмінними - у Раді готують законопроєкт",
+        "article_url": "https://www.ukrinform.ua/rubric-economy/3495970-tarifi-na-gaz-ta-teplo-zalisatsa-nezminnimi-u-radi-gotuut-zakonoproekt.html",
+        "description": "У Верховній Раді активно працюють над законопроєктом, який передбачає запровадження мораторію на підвищення цін на природний газ і тарифів на теплову енергію та супутні послуги в Україні"
+    },
+    "3495968": {
+        "article_timestamp": 1653931576.0,
+        "article_title": "Війська рф зазнали втрат і відійшли з Миколаївки на Херсонщині",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3495968-vijska-rf-zaznali-vtrat-i-vidijsli-z-mikolaivki-na-hersonsini.html",
+        "description": "На Слобожанському напрямку армія російської федерації продовжує підготовку до наступу та вивчає ймовірні шляхи висування, постачання військової техніки з території росії."
+    },
+    "3495965": {
+        "article_timestamp": 1653931560.0,
+        "article_title": "У Нідерландах на підтримку України покажуть документальні фільми про війну",
+        "article_url": "https://www.ukrinform.ua/rubric-diaspora/3495965-u-niderlandah-na-pidtrimku-ukraini-pokazut-dokumentalni-filmi-pro-vijnu.html",
+        "description": "У нідерландському Роттердамі пройде вечір документальних фільмів, присвячених війнам і їх наслідкам, зокрема, в українському Маріуполі та нідерландському Роттердамі."
+    },
+    "3495963": {
+        "article_timestamp": 1653931236.0,
+        "article_title": "Netflix остаточно пішов із ринку рф",
+        "article_url": "https://www.ukrinform.ua/rubric-culture/3495963-netflix-ostatocno-pisov-iz-rinku-rf.html",
+        "description": "Стримінговий сервіс Netflix остаточно залишив російський ринок - на території рф недоступний ані сайт, ані додаток."
+    },
+    "3495961": {
+        "article_timestamp": 1653931223.0,
+        "article_title": "Унаслідок ворожого обстрілу Харкова поранень зазнали троє людей, у т. ч. підліток",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3495961-unaslidok-vorozogo-obstrilu-harkova-poranen-zaznali-troe-ludej-u-t-c-pidlitok.html",
+        "description": "Удень 30 травня російські загарбники обстріляли Київський район Харкова, поранивши трьох мирних мешканців, зокрема 16-річного хлопця. "
+    },
+    "3496048": {
+        "article_timestamp": 1653937980.0,
+        "article_title": "Євросоюз прагне досягти консенсусу щодо нафтового ембарго - Шольц",
+        "article_url": "https://www.ukrinform.ua/rubric-economy/3496048-evrosouz-pragne-dosagti-konsensusu-sodo-naftovogo-embargo-solc.html",
+        "description": "Федеральний канцлер ФРН Олаф Шольц переконаний, що в Євросоюзі є прагнення досягти порозуміння щодо запровадження ембарго на російську нафту."
+    },
+    "3496074": {
+        "article_timestamp": 1653941640.0,
+        "article_title": "Зеленський: Європі у будь-якому випадку доведеться відмовитися від російської нафти",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496074-zelenskij-evropi-u-budakomu-vipadku-dovedetsa-vidmovitisa-vid-rosijskoi-nafti.html",
+        "description": "Європі в будь-якому випадку доведеться відмовитися від російської нафти, нафтопродуктів. Бо це про незалежність самих європейців від російської енергетичної зброї."
+    },
+    "3496076": {
+        "article_timestamp": 1653941160.0,
+        "article_title": "Уряд Франції передав МВС України шість пожежних автомобілів і сім «швидких»",
+        "article_url": "https://www.ukrinform.ua/rubric-uarazom/3496076-urad-francii-peredav-mvs-ukraini-sist-pozeznih-avtomobiliv-i-sim-svidkih.html",
+        "description": "Уряд Французької Республіки передав Міністерству внутрішніх справ України шість пожежно-рятувальних автомобілів та сім машин медичної допомоги."
+    },
+    "3496068": {
+        "article_timestamp": 1653940650.0,
+        "article_title": "Загарбники обшукали приміщення Червоного Хреста у Маріуполі",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3496068-zagarbniki-obsukali-primisenna-cervonogo-hresta-u-mariupoli.html",
+        "description": "У Маріуполі загарбники обшукали приміщення Червоного Хреста у Маріуполі, а їхня пропаганда поширює інформацію про «злочини»."
+    },
+    "3496070": {
+        "article_timestamp": 1653940500.0,
+        "article_title": "Вілкул: росіяни обстрілюють окуповані ними ж населені пункти",
+        "article_url": "https://www.ukrinform.ua/rubric-regions/3496070-vilkul-rosiani-obstriluut-okupovani-nimi-z-naseleni-punkti-dnipropetrovsini.html",
+        "description": "Війська рф обстрілюють не тільки громади Дніпропетровської області, а й тимчасово захоплені ними населені пункти - заради пропагандистської \"картинки\"."
+    },
+    "3496064": {
+        "article_timestamp": 1653940124.0,
+        "article_title": "Зеленський обговорив з Ердоганом продовольчу безпеку та відновлення миру",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496064-zelenskij-obgovoriv-z-erdoganom-prodovolcu-bezpeku-ta-vidnovlenna-miru.html",
+        "description": "Президент Володимир Зеленський обговорив з Президентом Туреччини Реджепом Тайїпом Ердоганом продовольчі загрози через російську агресію та взаємодію у безпековій сфері."
+    },
+    "3496066": {
+        "article_timestamp": 1653939900.0,
+        "article_title": "Посли країн «Групи семи» стурбовані повідомленнями про російські фільтраційні табори",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496066-posli-krain-grupi-semi-sturbovani-povidomlennami-pro-rosijski-filtracijni-tabori.html",
+        "description": "Посли країн групи G7 надзвичайно стурбовані численними тривожними повідомленнями про фільтраційні табори, організовані на тимчасово захопленій росією території."
+    },
+    "3496060": {
+        "article_timestamp": 1653939480.0,
+        "article_title": "Україна фіналізує підготовку до європейської програми LIFE - Міндовкілля",
+        "article_url": "https://www.ukrinform.ua/rubric-uarazom/3496060-ukraina-finalizue-pidgotovku-do-evropejskoi-programi-life-mindovkilla.html",
+        "description": "Україна завершує процес підготовки приєднання до європейської програми LIFE для природоохоронних проєктів, що допоможе відновлювати знищені та пошкоджені російськими загарбниками екосистеми."
+    },
+    "3496057": {
+        "article_timestamp": 1653939257.0,
+        "article_title": "ЗСУ на сході знищили близько 50 російських військових і танк противника",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496057-zsu-na-shodi-znisili-blizko-50-rosijskih-vijskovih-i-tank-protivnika.html",
+        "description": "Збройні сили України на сході у понеділок знищили близько 50 російських військових та самохідну артилерійську установку."
+    },
+    "3496053": {
+        "article_timestamp": 1653938640.0,
+        "article_title": "Загарбники намагаються вести наступ на східні громади Запорізької області - ОВА",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496053-zagarbniki-namagautsa-vesti-nastup-na-shidni-gromadi-zaporizkoi-oblasti-ova.html",
+        "description": "Війська рф намагаються вести наступ на східні громади Запорізької області."
+    },
+    "3496050": {
+        "article_timestamp": 1653938280.0,
+        "article_title": "У Сєверодонецьку тривають вуличні бої - Гайдай",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496050-u-severodonecku-trivaut-vulicni-boi-gajdaj.html",
+        "description": "У Сєвєродонецьку тривають вуличні бої, Збройні сили України намагаються відкинути ворога."
+    },
+    "3496085": {
+        "article_timestamp": 1653942480.0,
+        "article_title": "росіяни зібрали на сході України максимум бойової потужності своєї армії – Президент",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496085-rosiani-zibrali-na-shodi-ukraini-maksimum-bojovoi-potuznosti-svoei-armii-zelenskij.html",
+        "description": "Ситуація на сході України надзвичайно тяжка, ворог зібрав там максимум бойової потужності російської армії."
+    },
+    "3496080": {
+        "article_timestamp": 1653942000.0,
+        "article_title": "Українська ударна авіація за день збила ще дві ракети ворога",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496080-ukrainska-udarna-aviacia-za-den-zbila-se-dvi-raketi-voroga.html",
+        "description": "Українська ударна авіація здійснила до десяти авіанальотів та завдала вогневих ударів по ворожих військах на Харківщині, Донеччині, Луганщині та Херсонщині."
+    },
+    "3496093": {
+        "article_timestamp": 1653943200.0,
+        "article_title": "Загарбники вкрали пів мільйона тонн українського зерна і шукають, як продати - Зеленський",
+        "article_url": "https://www.ukrinform.ua/rubric-ato/3496093-zagarbniki-vkrali-piv-miljona-tonn-ukrainskogo-zerna-i-sukaut-ak-prodati-zelenskij.html",
+        "description": "Загарбники вкрали на тимчасово захопленій території України щонайменше півмільйона тонн зерна і шукають способи, як нелегально його продати."
+    },
+    "3496087": {
+        "article_timestamp": 1653942960.0,
+        "article_title": "Надання Україні статусу кандидата відповідає інтересам самої Європи - Мецола",
+        "article_url": "https://www.ukrinform.ua/rubric-polytics/3496087-nadanna-ukraini-statusu-kandidata-vidpovidae-interesam-samoi-evropi-mecola.html",
+        "description": "Рішення про надання Україні статусу кандидата на членство в Євросоюз, яке лідери ЄС мають розглянути вже за кілька тижнів, відповідає інтересам Європи та має рішучу підтримку з боку Європарламенту."
+    },
+    "3496082": {
+        "article_timestamp": 1653942600.0,
+        "article_title": "Зеленський висловив співчуття через загибель на Луганщині французького журналіста",
+        "article_url": "https://www.ukrinform.ua/rubric-society/3496082-zelenskij-visloviv-spivcutta-cerez-zagibel-na-lugansini-francuzkogo-zurnalista.html",
+        "description": "Президент України Володимир Зеленський висловив співчуття рідним і колегам французького журналіста, який загинув унаслідок російського обстрілу у Луганській області."
     }
 }
